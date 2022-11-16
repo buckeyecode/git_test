@@ -1,0 +1,2 @@
+This is my first attempt at adding code to staging with Git
+I like to code!
